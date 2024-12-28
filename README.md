@@ -1,4 +1,4 @@
-Greetings fellow enthusiasts! I'm Anbukumaran, a dynamic 10th-grade student on a thrilling coding odyssey. Nestled at the intersection of passion and pixels, my journey is a fusion of Python elegance, cosmic wonder, and the beauty of mathematical algorithms.
+Greetings fellow enthusiasts! I'm Anbukumaran, a dynamic 11th-grade student on a thrilling coding odyssey. Nestled at the intersection of passion and pixels, my journey is a fusion of Python elegance, cosmic wonder, and the beauty of mathematical algorithms.
 
 In the vast realm of programming, Python has become my trusty companion. Its syntax dances with my creative whims, transforming ideas into elegant lines of code. Beyond the classroom, my free time transforms into a code laboratory, where I experiment with new concepts, develop projects, and explore the depths of my coding prowess.
 
